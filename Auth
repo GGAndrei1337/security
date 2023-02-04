@@ -1,8 +1,4 @@
 local data = {
-  uid = {
-  3579
-  }
-  username = {
-  "Shakaz"
-  }
+  uid = {3579,},
+  username = {"Shakaz",},
 }
